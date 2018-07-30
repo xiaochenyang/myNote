@@ -1,0 +1,19 @@
+{
+  "name": "mynote",
+  "version": "1.0.0",
+  "description": "sth i noted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaochenyang/myNote.git"
+  },
+  "author": "xcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaochenyang/myNote/issues"
+  },
+  "homepage": "https://github.com/xiaochenyang/myNote#readme"
+}
